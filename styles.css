@@ -1,0 +1,52 @@
+._1{
+    color:darkblue;
+    }
+
+._2{
+    color: brown;
+    margin-left: 50px;
+}
+
+._3{
+    color: darkblue;
+}
+
+._4{
+    color: brown;
+    margin-left: 50px;
+}
+
+
+._5{
+    color: darkblue;
+    
+}
+
+
+._6{
+    color: brown;
+    margin-left: 50px;
+}
+
+
+._7{
+    color: darkblue;
+}
+
+._8{
+    color: brown;
+    margin-left: 50px;
+}
+
+.decor{
+    width:400px;
+    height:1200px;
+    border:45px solid cyan;
+    border-radius: 50px;
+}
+
+*{
+    margin-top: 50px;
+
+}
+
